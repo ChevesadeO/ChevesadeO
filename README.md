@@ -28,7 +28,7 @@ Interactive educational platform to visualize data structures step by step. · B
 Website for the university congresses of UTP, Colón Regional Center.
 Built with: PHP, CSS, Bootstrap
 
-### LABForm — Net Salary Calculator
+### [LABForm](https://github.com/ChevesadeO/LABForm) — Net Salary Calculator
 Web app to calculate net salary, apply deductions, and manage employee records.
 Built with: React, Node.js, Express, MongoDB
 
