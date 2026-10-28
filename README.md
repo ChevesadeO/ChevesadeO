@@ -22,7 +22,7 @@ Software development student based in Panama. I enjoy building web applications,
 ## Featured projects
 
 ### [Visual Data Structure](https://github.com/ChevesadeO/PROYECTO_JIC_2026_VISUAL_-STRUCTURE)
-Interactive educational platform to visualize data structures step by step. · Built with: JavaScript, 
+Interactive educational platform to visualize data structures step by step. · Built with: JavaScript, HTML, PHP, SQL
 
 ### [CINET Colón](https://cinetcolon.com/)
 Website for the university congresses of UTP, Colón Regional Center.
