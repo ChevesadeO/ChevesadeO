@@ -11,9 +11,9 @@ Software development student based in Panama. I enjoy building web applications,
 
 ## Tech stack
 
-**Languages:** PHP, JavaScript, Python, HTML, CSS
+**Languages:** Python, JavaScript, PHP, HTML, CSS
 
-**Frontend:** React, Bootstrap, Django
+**Frontend:** React, Vite, Bootstrap, Django
 
 **Backend & databases:** Node.js, Express, Django, MySQL, MongoDB
 
@@ -22,8 +22,7 @@ Software development student based in Panama. I enjoy building web applications,
 ## Featured projects
 
 ### [Visual Data Structure](https://github.com/ChevesadeO/PROYECTO_JIC_2026_VISUAL_-STRUCTURE)
-Interactive educational platform to visualize data structures step by step.
-🔗 [Live demo](https://visualdatastructure.xo.je/) · Built with: JavaScript, (completa aquí)
+Interactive educational platform to visualize data structures step by step. · Built with: JavaScript, 
 
 ### [CINET Colón](https://cinetcolon.com/)
 Website for the university congresses of UTP, Colón Regional Center.
@@ -32,6 +31,18 @@ Built with: PHP, CSS, Bootstrap
 ### LABForm — Net Salary Calculator
 Web app to calculate net salary, apply deductions, and manage employee records.
 Built with: React, Node.js, Express, MongoDB
+
+### [Datasort](https://github.com/ChevesadeO/Datasort)
+Final project for Data Structures: sorting algorithms implemented and compared.
+Built with: Python
+
+### [Quicksort App](https://github.com/ChevesadeO/Quicksort_App)
+Application to visualize how the quicksort algorithm works.
+Built with: Python, HTML
+
+### [ProyectoReact_ecommerse](https://github.com/ChevesadeO/ProyectoReact_ecommerse)
+Final project for Desarrollo IX and Innovación y Emprendimiento.
+Built with: React, Vite
 
 ## Let's connect
 
