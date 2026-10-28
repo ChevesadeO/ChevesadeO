@@ -21,6 +21,9 @@ Software development student based in Panama. I enjoy building web applications,
 
 ## Featured projects
 
+### [visual_data_structure_with_ai_tutoV3](https://github.com/ChevesadeO/visual_data_structure_with_ai_tutoV3)
+Interactive educational platform to visualize data structures step by step. · Built with: JavaScript, HTML, PHP, SQL
+
 ### [Visual Data Structure](https://github.com/ChevesadeO/PROYECTO_JIC_2026_VISUAL_-STRUCTURE)
 Interactive educational platform to visualize data structures step by step. · Built with: JavaScript, HTML, PHP, SQL
 
