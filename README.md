@@ -12,8 +12,11 @@ Software development student based in Panama. I enjoy building web applications,
 ## Tech stack
 
 **Languages:** PHP, JavaScript, Python, HTML, CSS
-**Frontend:** React, Bootstrap
-**Backend & databases:** Node.js, Express, MySQL, MongoDB
+
+**Frontend:** React, Bootstrap, Django
+
+**Backend & databases:** Node.js, Express, Django, MySQL, MongoDB
+
 **Tools:** Git, GitHub, VS Code
 
 ## Featured projects
